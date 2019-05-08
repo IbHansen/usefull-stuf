@@ -1,0 +1,1 @@
+jupyter nbconvert "%1.ipynb" --to slides --post serve  --SlidesExporter.reveal_scroll=True
